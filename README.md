@@ -23,6 +23,9 @@ The dataset consists of call centre interaction records, including the following
 
 Below is the overview page from the Power BI Dashboard. The entire interactive dashboard can be downloaded [here]()
 
+### Dashboard
+![Call Centre Trends Dashboard](https://github.com/Buhle-Mkhwanazi/Call-Centre-Trends/blob/main/Call%20Centre%20Trends%20Dashboard.png?raw=true)
+
 ### Insights Deep Dive
 - Agent Performance Variability:
   - Agents like Greg and Stewart have high resolution rates (90%) and above-average CSAT (68%), while others, such as Becky, have significantly lower resolution rates (~39%).
