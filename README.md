@@ -6,7 +6,7 @@ PwC aims to enhance its call centre operations by gaining data-driven insights i
 
 ## Data Structure Overview
 
-The dataset consists of call centre interaction records, including the following fields:
+The [dataset](https://github.com/Buhle-Mkhwanazi/Call-Centre-Trends/blob/main/Call_Center_Dataset.csv) consists of call centre interaction records, including the following fields:
 - Call Details: Call ID, timestamp, duration, resolution status, and customer satisfaction score.
 - Agent Performance: Agent name, total calls handled, call abandonment rate, speed of answer, and resolution rate.
 - Customer Feedback: Categorization of calls based on satisfaction levels.
