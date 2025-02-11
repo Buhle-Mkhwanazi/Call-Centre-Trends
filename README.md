@@ -36,5 +36,14 @@ Below is the overview page from the Power BI Dashboard. The entire interactive d
 - Customer Satisfaction Levels:
   - A significant portion of customers report neutral or dissatisfied experiences, which impacts CSAT.
   - The Not Served category represents a concerning volume of interactions that did not lead to resolution.
+ 
+### Recommendations:
+
+Based on the uncovered insights, the following recommendations have been made:
+- Optimise Staffing: Increase the number of active agents during peak hours to reduce wait times and abandonment rates
+- Agent Training: Focus on improving resolution rates and response times for agents with lower performance metrics.
+- Reduce Call Handling Time: Streamline call processes and scripts to ensure quicker resolutions.
+- Enhance Customer Experience: Implement callback options or virtual assistants to handle common queries, reducing customer frustration.
+- Monitor Peak Hours: Adjust schedules based on call volume trends to optimise efficiency.
 
  
